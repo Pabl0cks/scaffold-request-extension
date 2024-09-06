@@ -1,5 +1,4 @@
-export const lightTheme = `
-{
+export const lightTheme = `{
           primary: "#0BB489", // dark green
           "primary-content": "#F9FBFF", //White
           secondary: "#0BB489",
@@ -29,10 +28,9 @@ export const lightTheme = `
           ".link:hover": {
             opacity: "80%",
           },
-        },
-`;
-export const darkTheme = `
-{
+        }`
+
+export const darkTheme = `{
           primary: "#0BB489",
           "primary-content": "#F9FBFF",
           secondary: "#05856E",
@@ -62,5 +60,4 @@ export const darkTheme = `
           ".link:hover": {
             opacity: "80%",
           },
-        },
-`;
+        }`
